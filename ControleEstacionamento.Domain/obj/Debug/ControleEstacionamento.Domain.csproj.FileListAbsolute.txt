@@ -1,0 +1,6 @@
+C:\Users\hemer\Desktop\C#\ControleEstacionamento\ControleEstacionamento.Domain\bin\Debug\ControleEstacionamento.Domain.dll
+C:\Users\hemer\Desktop\C#\ControleEstacionamento\ControleEstacionamento.Domain\bin\Debug\ControleEstacionamento.Domain.pdb
+C:\Users\hemer\Desktop\C#\ControleEstacionamento\ControleEstacionamento.Domain\obj\Debug\ControleEstacionamento.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hemer\Desktop\C#\ControleEstacionamento\ControleEstacionamento.Domain\obj\Debug\ControleEstacionamento.Domain.dll
+C:\Users\hemer\Desktop\C#\ControleEstacionamento\ControleEstacionamento.Domain\obj\Debug\ControleEstacionamento.Domain.pdb
+C:\Users\hemer\Desktop\C#\ControleEstacionamento\ControleEstacionamento.Domain\obj\Debug\ControleEstacionamento.Domain.csproj.AssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\hemer\Desktop\C#\ControleEstacionamento\ControleEstacionamento.Application\bin\Debug\ControleEstacionamento.Application.dll
+C:\Users\hemer\Desktop\C#\ControleEstacionamento\ControleEstacionamento.Application\bin\Debug\ControleEstacionamento.Application.pdb
+C:\Users\hemer\Desktop\C#\ControleEstacionamento\ControleEstacionamento.Application\obj\Debug\ControleEstacionamento.Application.csproj.CoreCompileInputs.cache
+C:\Users\hemer\Desktop\C#\ControleEstacionamento\ControleEstacionamento.Application\obj\Debug\ControleEstacionamento.Application.dll
+C:\Users\hemer\Desktop\C#\ControleEstacionamento\ControleEstacionamento.Application\obj\Debug\ControleEstacionamento.Application.pdb
